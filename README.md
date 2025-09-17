@@ -1,4 +1,4 @@
-# Assignment Portal - Frontend (Modular)
+# Assignment Portal - Frontend 
 
 Structure:
 - src/
