@@ -1,0 +1,1 @@
+This frontend references react-scripts. Use CRA or install react-scripts manually.
